@@ -68,10 +68,10 @@
       "menuLink": "/shop",
       "category": [
         {
-          "categoryLabel": "woman",
+          "categoryLabel": "Technology",
           "submenu": [
             {
-              "menuLabel": "All clothing",
+              "menuLabel": "Keybords",
               "menuLink": "/shop"
             },
             {
