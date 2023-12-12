@@ -166,11 +166,11 @@
       ]
     },
     {
-      "category": "gender",
+      "category": ".",
       "items": [
-        { "name": "Male", "value": false },
-        { "name": "Female", "value": false },
-        { "name": "Unisex", "value": false }
+        { "name": " ", "value": false },
+        { "name": " ", "value": false },
+        { "name": " ", "value": false }
       ]
     }
   ]
